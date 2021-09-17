@@ -1,0 +1,1 @@
+export { postService } from './Post'

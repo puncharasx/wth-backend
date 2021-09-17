@@ -1,0 +1,1 @@
+export { postController } from './Post'
